@@ -1,0 +1,51 @@
+#main-header{
+    background-color: #AD5FB1;
+    text-align: center;
+    border: 3px black dotted;
+    padding: 1em 1em 1em 1em;
+    margin-bottom: 5em;
+    width: 25vw;
+}
+
+
+
+#name-sect{
+    color: #123451;
+    font-size: 3em;
+    background-color: rgb(235, 186, 134);
+    border: 2px #acb3fe solid;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 2em;
+    padding: 2em, 5em, 3em, 1em;
+    text-align: right;
+    height: 10vw;
+    width: 20vw;
+}
+
+#home-sect{
+
+}
+
+#school-sect{
+
+}
+
+#hobbies-sect{
+
+}
+
+#pet-sect{
+
+}
+
+#food-sect{
+    color: purple;
+    background-color: orangered;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: darkcyan;
+    height: 5vh;
+    width: 25vw;
+    text-align: center;
+    padding: 1em 1em 1em 1em;
+    margin-bottom: 2em;
+}
